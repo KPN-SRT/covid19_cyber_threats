@@ -51,6 +51,7 @@ As people work from home there is the risk of infection been unnoticed. Normally
 
 ## COVID-19 malware samples 
 - MalwareBazaar Database: https://bazaar.abuse.ch/browse/tag/COVID-19/
+- any run: https://app.any.run/submissions/#tag:covid19
 
 # Advisory to avoid covid-19 cyber threats
 Phishing in the Time of COVID-19: How to Recognize Malicious Coronavirus Phishing Scams: https://www.eff.org/deeplinks/2020/03/phishing-time-covid-19-how-recognize-malicious-coronavirus-phishing-scams
