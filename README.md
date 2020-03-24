@@ -46,6 +46,8 @@ Maze, DoppelPaymer, Ryuk, Sodinokibi/REvil, PwndLocker, and Ako have informed th
 ## Working from home (WFH) Risks
 As people work from home there is the risk of infection been unnoticed. Normally your workstation is inside your company network, now it is not and most likely you are using the ISP's DNS rather than the company one normally used and monitored by SoC, so if you get infected now it is harder to notice until is too late. Moreover to have more flexibility companies are allowing people to use their home computers to access company resources via VPN. This systems could have been already compromise and are not hardened. Lastly many many campaigns have mutated towards a covid-19 theme but this doesn't mean that normal cyber threats have stopped. So no malware campaigns shall be neglected in either case covid-19 or not covid-19 themed.
 
+- In a rush to enable working from home, organizations are exposing their assets online, opening themselves to attacks: https://twitter.com/_CPResearch_/status/1242528620477849602?s=20
+
 ## Other Threats regarding covid-19
 - Is APT27 Abusing COVID-19 To Attack People ?!: https://marcoramilli.com/2020/03/19/is-apt27-abusing-covid-19-to-attack-people/ 
 
