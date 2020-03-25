@@ -68,6 +68,7 @@ Phishing in the Time of COVID-19: How to Recognize Malicious Coronavirus Phishin
 - All IOC's are provided "as-is", please use your own verification methodology before deploying them in production network: https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/
 - OTX covid-19 pulses: https://otx.alienvault.com/browse/pulses?q=covid
 - Carbonblack Covid19 IOCS: https://github.com/carbonblack/tau-tools/tree/master/threat_hunting/IOCs/COVID-19%20Post%20IOCs
+- Checkphish covid tracker // Daily updated: https://storage.googleapis.com/rm-web-assets/covid-19/covid_feed.tsv
 
 
 
