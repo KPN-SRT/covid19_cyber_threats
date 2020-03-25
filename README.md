@@ -62,9 +62,10 @@ As people work from home there is the risk of infection been unnoticed. Normally
 # Advisory to avoid covid-19 cyber threats
 Phishing in the Time of COVID-19: How to Recognize Malicious Coronavirus Phishing Scams: https://www.eff.org/deeplinks/2020/03/phishing-time-covid-19-how-recognize-malicious-coronavirus-phishing-scams
 
-# IOCs sharing
+# COVID-19 IOCs
 - All IOC's are provided "as-is", please use your own verification methodology before deploying them in production network: https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/
 - OTX covid-19 pulses: https://otx.alienvault.com/browse/pulses?q=covid
+- Carbonblack Covid19 IOCS: https://github.com/carbonblack/tau-tools/tree/master/threat_hunting/IOCs/COVID-19%20Post%20IOCs
 
 
 
