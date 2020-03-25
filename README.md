@@ -42,6 +42,10 @@ Maze, DoppelPaymer, Ryuk, Sodinokibi/REvil, PwndLocker, and Ako have informed th
 - Ransomware Gangs to Stop Attacking Health Orgs During Pandemic: https://www.bleepingcomputer.com/news/security/ransomware-gangs-to-stop-attacking-health-orgs-during-pandemic/
 - https://www.wired.com/story/ransomware-magecart-coronavirus-security-news/?mbid=social_twitter&utm_brand=wired&utm_campaign=wired&utm_medium=social&utm_social-type=owned&utm_source=twitter
 - Given these recent successes of deploying ransomware via AZORult and Emotet, RiskIQ assesses that it’s only a matter of time before cybercriminals return to this methodology: https://cdn.riskiq.com/wp-content/uploads/2020/03/Coronavirus-Outbreak-Intelligence-Brief-RiskIQ.pdf
+### And its gone:
+- Maze ransomware attackers extort vaccine testing facility: https://www.scmagazine.com/home/security-news/ransomware/maze-ransomware-attackers-extort-vaccine-testing-facility/
+- Healthcare hit with ransomware, despite promised truce: https://risky.biz/newsletter2/
+- Netwalker hits spanish hospitals: https://elpais.com/espana/2020-03-23/la-policia-detecta-un-ataque-masivo-al-sistema-informatico-de-los-hospitales.html
 
 ## Working from home (WFH) Risks
 As people work from home there is the risk of infection been unnoticed. Normally your workstation is inside your company network, now it is not and most likely you are using the ISP's DNS rather than the company one normally used and monitored by SoC, so if you get infected now it is harder to notice until is too late. Moreover to have more flexibility companies are allowing people to use their home computers to access company resources via VPN. This systems could have been already compromise and are not hardened. Lastly many many campaigns have mutated towards a covid-19 theme but this doesn't mean that normal cyber threats have stopped. So no malware campaigns shall be neglected in either case covid-19 or not covid-19 themed.
