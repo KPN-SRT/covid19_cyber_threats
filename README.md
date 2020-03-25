@@ -1,4 +1,4 @@
-# Cyber threats abusing covid-19 overview
+# Overview - Cyber Threats Abusing COVID-19
 
 Real-time updates by CERT-EU : https://media.cert.europa.eu/cert/filteredition/en/Cybersecurity-Covid-19.html
 
