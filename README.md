@@ -6,6 +6,7 @@ Real-time updates by CERT-EU : https://media.cert.europa.eu/cert/filteredition/e
 ## Phishing
 Many emails themed with COVID-19 are sending office documents with malicious attachments or links to dropper sites (trickbot, hancitor, others). Moreover there are many sites with urls design to lure users interested in covid-19 to malicious sites to drop desktop/mobile malware.
 
+- Global Online Phishing & Scams Dashboard : https://checkphish.ai/coronavirus-scams-tracker
 - U.S. Department of Health & Human Services open redirect is currently being used by attackers to push malware : https://www.bleepingcomputer.com/news/security/hhsgov-open-redirect-used-by-coronavirus-phishing-to-spread-malware/
 - COVID-19 Real Time Scam Hunter : https://thugcrowd.com/covid-19/
 - COVID-19 fake domains feed : https://twitter.com/RiskIQ/status/1239619032933748738?s=20
