@@ -14,7 +14,7 @@ Many emails themed with COVID-19 are sending office documents with malicious att
 - Coronavirus outbreak - Joint Statement European Commission, ENISA, CERT-EU and Europol : https://ec.europa.eu/digital-single-market/en/news/coronavirus-outbreak-joint-statement-european-commission-enisa-cert-eu-and-europol
 - KPOT infostealer: https://isc.sans.edu/forums/diary/More+COVID19+Themed+Malware/25930/
 - Fake email from WHO: https://isc.sans.edu/diary/25922
-- Fave covid-19 site as bait: https://thehackernews.com/2020/03/covid-19-coronavirus-hacker-malware.html
+- Fake covid-19 site as bait: https://thehackernews.com/2020/03/covid-19-coronavirus-hacker-malware.html
 - CoronaVirus Themed Malspam(Hancitor malware): https://threatblogs.wordpress.com/2020/03/23/coronavirus-themed-malspamhancitor-malware/
 
 ## Covid-19 map copycat or fake tracking apps
@@ -62,6 +62,9 @@ As people work from home there is the risk of infection been unnoticed. Normally
 # Advisory to avoid covid-19 cyber threats
 Phishing in the Time of COVID-19: How to Recognize Malicious Coronavirus Phishing Scams: https://www.eff.org/deeplinks/2020/03/phishing-time-covid-19-how-recognize-malicious-coronavirus-phishing-scams
 
+# IOCs sharing
+- All IOC's are provided "as-is", please use your own verification methodology before deploying them in production network: https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/
+- OTX covid-19 pulses: https://otx.alienvault.com/browse/pulses?q=covid
 
 
 
