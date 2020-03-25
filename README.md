@@ -1,4 +1,5 @@
 # Overview - Cyber Threats Abusing COVID-19
+**This page is a best afford attempt to follow the cyber threats that are now showing up in relationship with Covid 19.**
 
 Real-time updates by CERT-EU : https://media.cert.europa.eu/cert/filteredition/en/Cybersecurity-Covid-19.html
 
