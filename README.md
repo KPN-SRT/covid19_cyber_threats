@@ -18,6 +18,8 @@ Many emails themed with COVID-19 are sending office documents with malicious att
 - Fake email from WHO: https://isc.sans.edu/diary/25922
 - Fake covid-19 site as bait: https://thehackernews.com/2020/03/covid-19-coronavirus-hacker-malware.html
 - CoronaVirus Themed Malspam(Hancitor malware): https://threatblogs.wordpress.com/2020/03/23/coronavirus-themed-malspamhancitor-malware/
+- Android Apps in Google Play Store Capitalizing on Coronavirus Outbreak: https://thehackernews.com/2020/03/coronavirus-covid-apps-android.html
+
 
 ## Covid-19 map copycat or fake tracking apps
 Many versions of malware pretending to be the official map were found in the wild.
@@ -48,6 +50,7 @@ Maze, DoppelPaymer, Ryuk, Sodinokibi/REvil, PwndLocker, and Ako have informed th
 - Maze ransomware attackers extort vaccine testing facility: https://www.scmagazine.com/home/security-news/ransomware/maze-ransomware-attackers-extort-vaccine-testing-facility/
 - Healthcare hit with ransomware, despite promised truce: https://risky.biz/newsletter2/
 - Netwalker hits spanish hospitals: https://elpais.com/espana/2020-03-23/la-policia-detecta-un-ataque-masivo-al-sistema-informatico-de-los-hospitales.html
+- Ryuk never stopped targeting healthcare: https://www.bleepingcomputer.com/news/security/ryuk-ransomware-keeps-targeting-hospitals-during-the-pandemic/
 
 ## Working from home (WFH) Risks
 As people work from home there is the risk of infection been unnoticed. Normally your workstation is inside your company network, now it is not and most likely you are using the ISP's DNS rather than the company one normally used and monitored by SoC, so if you get infected now it is harder to notice until is too late. Moreover to have more flexibility companies are allowing people to use their home computers to access company resources via VPN. This systems could have been already compromise and are not hardened. Lastly many many campaigns have mutated towards a covid-19 theme but this doesn't mean that normal cyber threats have stopped. So no malware campaigns shall be neglected in either case covid-19 or not covid-19 themed.
@@ -65,6 +68,7 @@ As people work from home there is the risk of infection been unnoticed. Normally
 Phishing in the Time of COVID-19: How to Recognize Malicious Coronavirus Phishing Scams: https://www.eff.org/deeplinks/2020/03/phishing-time-covid-19-how-recognize-malicious-coronavirus-phishing-scams
 
 # COVID-19 IOCs
+- COVID-19 Cyber threats Slack community OTX: https://otx.alienvault.com/group/840/pulses
 - All IOC's are provided "as-is", please use your own verification methodology before deploying them in production network: https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/
 - OTX covid-19 pulses: https://otx.alienvault.com/browse/pulses?q=covid
 - Carbonblack Covid19 IOCS: https://github.com/carbonblack/tau-tools/tree/master/threat_hunting/IOCs/COVID-19%20Post%20IOCs
