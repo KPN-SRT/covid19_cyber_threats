@@ -19,6 +19,7 @@ Many emails themed with COVID-19 are sending office documents with malicious att
 - Fake covid-19 site as bait: https://thehackernews.com/2020/03/covid-19-coronavirus-hacker-malware.html
 - CoronaVirus Themed Malspam(Hancitor malware): https://threatblogs.wordpress.com/2020/03/23/coronavirus-themed-malspamhancitor-malware/
 - Android Apps in Google Play Store Capitalizing on Coronavirus Outbreak: https://thehackernews.com/2020/03/coronavirus-covid-apps-android.html
+- Fake mail from a hospital that you are exposed to the Coronavirus: https://www.bleepingcomputer.com/news/security/phishing-attack-says-youre-exposed-to-coronavirus-spreads-malware/
 
 
 ## Covid-19 map copycat or fake tracking apps
