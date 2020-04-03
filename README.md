@@ -35,6 +35,7 @@ Currently there are a series of DDOS hitting critical infra (mirai like + others
 - Reflective DNS Ddos : https://isc.sans.edu/forums/diary/A+Quick+Summary+of+Current+Reflective+DNS+DDoS+Attacks/25916/
 - Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps: https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
 - World Health Organization targeted: https://news.trust.org/item/20200323182423-bgpm7/
+- Coronavirus themed malware: https://www.bleepingcomputer.com/news/security/new-coronavirus-themed-malware-locks-you-out-of-windows/
 
 
 ## Magecart alert
